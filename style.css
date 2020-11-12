@@ -1,0 +1,46 @@
+h1 {
+  font-family:sans-serif;
+    text-align:center;
+  color:white;
+}
+h3 {
+  font-family:sans-serif;
+  color:purple;
+}
+body {
+  background-color:pink;
+}
+img {
+  width:500px;
+  height:600px;
+}
+button{
+  border:10px;
+  color:purple;
+  background-color:white;
+  padding:10px 15px;
+  cursor:pointer;
+  border-radius:100px;
+}
+.textinput{
+  font-size:18px;
+  width:300px;
+  height:30px;
+  text-color:purple;
+}
+button{
+  padding:10px 30px;
+  background-color:yellow;
+  color:purple;
+  font-weight:bold;
+  font-family:cursive;
+  cursor:pointer;
+}
+p{
+  font-size:20px;
+  color:purple;
+}
+#harrypotter{
+  margin-bottom:100px;
+  margin-top:50px;
+}
